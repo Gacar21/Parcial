@@ -4,7 +4,7 @@ package realizardivisionsoloconsumasrestas;
 public class RealizarDivisionSoloconSumasRestas {
     
     public static void main(String[] args) {
-     int  numerador = 100;
+     int  numerador = 8;
      int denominador = 5;
      int contador = 0;
      int multi =0;
